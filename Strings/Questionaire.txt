@@ -1,0 +1,12 @@
+1>  WAP to input a string and print it.
+2>  WAP to input a string and print every letter of the string.
+3>  WAP to input a string and print its length.
+4>  WAP to input a string and print its length without using len function.
+5>  WAP to input a string and reverse it.
+6>  WAP to input a string and find the number of vowels and consonents used.
+7>  WAP to input a string and print and check for a particular letter present in the string.
+8>  WAP to input a string sentence and check for a particular word in that string along with its frequency.
+9>  WAP that takes your full name as input and displays the abbreviations of the first and middle 
+    names except the last name which is displayed as it is. For example, if your name is Robert Brett Roser, 
+    then the output should be R.B.Roser.
+10> WAP to input a string and replace a with @ , s with $ , h with # and display the new string

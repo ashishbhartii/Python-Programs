@@ -1,0 +1,28 @@
+1> WAP to create a list by taking input from the user aand display it.
+2> WAP to create two lists by taking input from the user and conatenate it using '+' operator , using append function & using extend function
+3> WAP to create a list of integers and do arithematic opeartions like sum, mul on them.
+4> WAP to create a list by taking input from the user and remove an item from the list by taking as an input from the user.
+5> WAP to create a list by taking input from the user and append some items by taking input from the user.
+6> WAP to create a list by taking input from the user and slice some part of it by taking input from the user.
+7> WAP to add two lists index-wise. Create a new list that contains the 0th index item from both the list,
+    then the 1st index item, and so on till the last element. any leftover items will get added at the end of the new list.
+8> WAP to create a list by taking input from the user numeric and find its squares and stor it into another list & display both.
+9> Given a two Python list. Write a program to iterate both lists simultaneously and display items from list1 in original order and
+    items from list2 in reverse order.
+10> WAP to find the largest of all the number in the list
+11> WAP to find the smallest of all the number in the list
+12> WAP that takes two lists and returns True if they have at least one common member.
+13> WAP to create a list by taking input from the user and remove all the even nos and print the new list.
+14> WAP to create a list by taking input from the user & find the index of a particular element taken as an input from the user.
+15> WAP to create two lists by taking not integer input from the user and conatenate it using '+' operator , using append function & using extend function
+
+16> WAP to create a list having the elements as the words of the sting, and print the words in a new list which has letter "s".
+17> WAP to create a list having the elements as the words of the sting, and print the words in a new list which starts with letter "s".
+18> WAP to use range function and create a sepertae list of even numbers.
+19> WAP to use range function and create a sepertae list of prime numbers.
+20> WAP to print integers between 1 to 100 print 'Fizz' for the numbers divisible by 3 and print 'BUZZ' if the numbers are divisble by 5 and print
+    'FIZZBUZZ' if the numbers are divisible by both 3 & 5.
+
+List comphrehensions:
+
+20> 

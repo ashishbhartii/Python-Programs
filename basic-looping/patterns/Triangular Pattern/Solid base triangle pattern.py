@@ -1,0 +1,35 @@
+# WAP to print the basic triangular pattern by the side as an input
+
+#       *
+#      ***
+#     *****
+#    *******
+
+n=int(input(" Enter the range for the triangular pattern  --- Enter here ---->"))
+print()
+print("The Triangular pattern with its base is =", n)
+print()
+i=n
+q=1
+p1=1
+while i>0:
+    j=1
+    p=1
+    while j<=i:
+        print(' ', end='')
+        j=j+1
+    while p<=q:
+        print('*',end='')
+        p=p+1
+    q=q+1 
+    i1=1
+    while i1 <= i-1:
+        print("*",end='')
+        i1=i+1
+    print()
+    i=i-1
+    p1=p1+1 
+    
+print()
+print("Thank You for Choosing us _/\_")  
+print() 
