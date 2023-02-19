@@ -1,23 +1,17 @@
-# WAP to input a string and find the number of vowels and consonents used.
+# 7>  7>  WAP to input a string and print and check for a particular letter and its 
+#         frequency present in the string.
 
 print()
 print("LETS BEGIN.. !!!")
 print()
-n=input("Enter the string that Whose Vowels & Consonents is to be counted -->")
+n=input("Enter the string that you want to be to searched for a particular string -->")
+print()
+n1=input("Enter the letter that you want to be to searched  -->")
 print()
 c=0
-p=0
-q=0
 for i in n:
-    if i=='a' or i=='e' or i =='i' or i =='o' or i =='u' or i=='A' or i=='E' or i =='I' or i =='O' or i =='U':
+    if n1==i:
         c=c+1
-    elif i ==' ':
-        p=p+1
-    else:
-        q=q+1
+print(f"{n1} letter is present in the string [{n}] with its frequency as --> {c}")
 print()
-print("The calculated count of Vowels and Consonents goes like  ")
-print()
-print(f'The desired string is [ {n} ] consist of [ {c} ] Vowels & [ {q} ] Consonents along with [ {p} ] Whitespaces')
-print()
-print("Thank You for Choosing Us _/\_")
+print(f'Thank you for Choosing us _/\_')
